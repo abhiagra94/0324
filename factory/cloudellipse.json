@@ -1,0 +1,9 @@
+{
+	"name": "cloudellipse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ea60df3-631d-4d6c-ad1e-956174f363f7",
+		"tenantId": "8435d1ba-cccb-4688-a86e-bdc5c90999e5"
+	}
+}
